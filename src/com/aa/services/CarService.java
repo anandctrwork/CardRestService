@@ -17,6 +17,8 @@ import com.aa.dal.CarDao;
 import com.aa.dal.CarDaoImpl;
 import com.rt.aa.Car;
 
+// Checked into GIT
+
 @Path("/CarService")
 public class CarService 
 {

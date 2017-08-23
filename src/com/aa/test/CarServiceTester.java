@@ -25,7 +25,7 @@ public class CarServiceTester  {
 
    public static void main(String[] args){
       CarServiceTester tester = new CarServiceTester();
-      //initialize the tester
+      //initialize the testers 
       tester.init();
       //test get all Cars Web Service Method
       tester.testGetAllCars();

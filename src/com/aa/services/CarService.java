@@ -33,7 +33,7 @@ public class CarService
 	@Produces(MediaType.APPLICATION_XML)
 	public Car getCar(@PathParam("id") int id)
 	{
-		System.out.println("Hello");
+		System.out.println("He");
 		return cardao.getCar(id);		
 	}
 
